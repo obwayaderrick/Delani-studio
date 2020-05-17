@@ -1,24 +1,9 @@
-.first{
-    background-image:url("../image/Top.jpg");
-    background-position:center center ;
-    background-size:cover ;
-    background-repeat: no-repeat;
-    color: white;
-    text-align: center;
-    padding:17%;
-    font-family: gabriela;
-    /* padding-bottom: 5%; */
-}
-
-.second{
-    text-align: center;
-    padding-bottom: 30px;
-    padding-top:40px;
-    font-family:serif;
-    background-image: none;
-}
-
-.third{
-    text-align: ;
-
+.first{ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.second{ 
+    
 }
