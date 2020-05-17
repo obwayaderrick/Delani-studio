@@ -1,5 +1,5 @@
 .first{
-    background-image: url(image/Top.jpg);
+    background-image:url("../image/Top.jpg");
     background-position:center center ;
     background-size:cover ;
     background-repeat: no-repeat;
