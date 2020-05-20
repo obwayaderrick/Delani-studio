@@ -27,6 +27,64 @@ $(document).ready(function(){
       $("#product").fadeOut("2000");
       $("#product-image").fadeIn("2000");
     });
+    $(document).ready(function(){
+        $("#work").mouseover(function(){
+          $("#mouse-hover").show();
+        })
+        $("#work").mouseout(function(){
+          $("#mouse-hover").hide();
+        });
+    
+        $("#work1").mouseover(function(){
+            $("#mouse-hover1").show();
+          })
+          $("#work1").mouseout(function(){
+            $("#mouse-hover1").hide();
+          });
+    
+          $("#work2").mouseover(function(){
+            $("#mouse-hover2").show();
+          })
+          $("#work2").mouseout(function(){
+            $("#mouse-hover2").hide();
+          });
+    
+          $("#work3").mouseover(function(){
+            $("#mouse-hover3").show();
+          })
+          $("#work3").mouseout(function(){
+            $("#mouse-hover3").hide();
+          });
+    
+          $("#work4").mouseover(function(){
+            $("#mouse-hover4").show();
+          })
+          $("#work4").mouseout(function(){
+            $("#mouse-hover4").hide();
+          });
+    
+          $("#work5").mouseover(function(){
+            $("#mouse-hover5").show();
+          })
+          $("#work5").mouseout(function(){
+            $("#mouse-hover5").hide();
+          });
+    
+          $("#work6").mouseover(function(){
+            $("#mouse-hover6").show();
+          })
+          $("#work6").mouseout(function(){
+            $("#mouse-hover6").hide();
+          });
+    
+          $("#work7").mouseover(function(){
+            $("#mouse-hover7").show();
+          })
+          $("#work7").mouseout(function(){
+            $("#mouse-hover7").hide();
+          });
+    
+      });
   });
   $(document).ready(function() {
     $("form#delani-form").on('submit',function(event){
