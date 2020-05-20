@@ -19,6 +19,9 @@
     text-align: center;
 
 }
+.text-center4{
+    text-align: center;
+}
 .text-center7{
     text-align: center;
     padding-top: 100px;
@@ -72,7 +75,9 @@
 footer,img{
     padding: 5px;
     padding-top: 30px;
+    align-items: center;
 }
 footer,p{
     padding-top: 10px;
+    text-align: center;
 }
